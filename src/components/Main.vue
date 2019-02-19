@@ -7,7 +7,7 @@
                     <div class="container">
                         <div class="navbar-brand">
                             <a class="navbar-item">
-                                <img src="../assets/logo.png" alt="Logo" style="padding-right: 10px;">EasyShareApp
+                                <img src="../assets/logo.png" alt="Logo" style="padding-right: 10px;">EasyShare - WebAPP
                             </a>
                             <span class="navbar-burger burger" v-bind:class="{ 'is-active': menuActive }" v-on:click="menuToggle()" data-target="navbarMenuHeroC">
                                 <span></span>
@@ -23,8 +23,8 @@
                                 <a class="navbar-item">
                                     共有リスト(Futured)
                                 </a>
-                                <span class="navbar-item" href="https://chrome.google.com/webstore/detail/easyshare-urlを簡単共有/lohgijhanpmaoifleakhianjolclfgmg/">
-                                    <a class="button is-primary">
+                                <span class="navbar-item">
+                                    <a href="https://chrome.google.com/webstore/detail/easyshare-urlを簡単共有/lohgijhanpmaoifleakhianjolclfgmg/" class="button is-primary">
                                         <span>Chromeストアでダウンロード</span>
                                     </a>
                                 </span>

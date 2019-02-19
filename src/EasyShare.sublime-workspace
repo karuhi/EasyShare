@@ -383,16 +383,15 @@
 	"expanded_folders":
 	[
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src",
-		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/assets",
-		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components"
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/assets"
 	],
 	"file_history":
 	[
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components/Main.vue",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/index.html",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/manifest.json",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/App.vue",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/main.js",
-		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/index.html",
 		"/C/dev/chrome-extension/popup.html",
 		"/C/Users/hikaru/Documents/EasyShare/src/components/HelloWorld.vue",
 		"/C/Users/hikaru/Documents/EasyShare/src/App.vue",
