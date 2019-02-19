@@ -1,0 +1,640 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loca",
+				"localStorage〔variable〕"
+			],
+			[
+				"qr",
+				"qrsection"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"Eas",
+				"EasyShareIDで共有する"
+			],
+			[
+				"ge",
+				"generateRandomAlphaNum"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"is",
+				"is-small"
+			],
+			[
+				"app",
+				"appsection〔variable〕"
+			],
+			[
+				"QR",
+				"QRsection"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"q",
+				"qrid"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"strtitle"
+			],
+			[
+				"vide",
+				"videoURL〔variable〕"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"posi",
+				"position: 〔property〕"
+			],
+			[
+				"ga",
+				"galleryThumbs"
+			],
+			[
+				"max",
+				"max-width: 〔property〕"
+			],
+			[
+				"thu",
+				"thumbnailsURL〔variable〕"
+			],
+			[
+				"tab",
+				"tabName〔argument〕"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"YU",
+				"YougenReadText"
+			],
+			[
+				"is-",
+				"is-info"
+			],
+			[
+				"nav",
+				"navbar-item"
+			],
+			[
+				"data",
+				"DataCount"
+			],
+			[
+				"D",
+				"DataCount"
+			],
+			[
+				"S",
+				"Sys_Height"
+			],
+			[
+				"Sy",
+				"Sys_Width"
+			],
+			[
+				"De",
+				"DebugState"
+			],
+			[
+				"de",
+				"DebugState"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"user",
+				"username1"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"toa",
+				"toastArea"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"Ac",
+				"AccountService/"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"A",
+				"AccountsForm.js"
+			],
+			[
+				"a",
+				"Accounts.html"
+			],
+			[
+				"re",
+				"register.php"
+			],
+			[
+				"s",
+				"Swiper.min.css"
+			],
+			[
+				"btn",
+				"btn-twitter"
+			],
+			[
+				"cs",
+				"css/"
+			],
+			[
+				"start",
+				"startButton"
+			],
+			[
+				"win",
+				"window_Width"
+			],
+			[
+				"game",
+				"game_Height"
+			],
+			[
+				"wind",
+				"window_Height"
+			],
+			[
+				"gam",
+				"game_Width"
+			],
+			[
+				"ho",
+				"horizontal"
+			],
+			[
+				"window",
+				"window_Height"
+			],
+			[
+				"wi",
+				"window_Height"
+			],
+			[
+				"ind",
+				"innerWidth\t.innerWidth()"
+			],
+			[
+				"window_",
+				"window_Width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.vue",
+			"settings":
+			{
+				"buffer_size": 567,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/HelloWorld.vue",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"preference",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codic",
+				"codic: search"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"c",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hikaru/Documents/EasyShare/src/components/HelloWorld.vue",
+		"/C/Users/hikaru/Documents/EasyShare/src/App.vue",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/vue.config.js",
+		"/C/Users/hikaru/Documents/EasyShare/src/main.js",
+		"/C/dev/chrome-extension/manifest.json",
+		"/C/dev/chrome-extension/firebase-init.js",
+		"/C/dev/chrome-extension/popup.html",
+		"/C/dev/chrome-extension/main.js",
+		"/C/dev/chrome-extension/firebase.js",
+		"/C/dev/chrome-extension/qrcode.js",
+		"/C/dev/chrome-extension/test.js",
+		"/C/dev/chrome-extension/test.css",
+		"/C/dev/chrome-extension/all.js",
+		"/C/dev/chrome-extension/index.html",
+		"/C/Users/hikaru/Desktop/index.html",
+		"/C/dev/webdev/v3-yueru/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp44425/etc/nginx/sites-available/default",
+		"/C/Users/hikaru/AppData/Local/Temp/scp38575/var/www/html/yueru_site/v3/assets/js/youtubeapi.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp03697/var/www/html/yueru_site/v3/assets/js/custom.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp24147/var/www/html/yueru_site/v3/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp35984/var/www/html/yueru_site/v3/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp40383/var/www/html/yueru_site/v3/assets/js/youtubeapi.js",
+		"/C/dev/webdev/v3-yueru/assets/js/youtubeapi.js",
+		"/C/dev/webdev/v3-yueru/assets/js/custom.js",
+		"/C/dev/webdev/v3-yueru/v1/t.min.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp18493/var/www/html/yougen-me/v3/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp12087/var/www/html/yougen-me/v3/js/components/slider.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp11145/var/www/html/yougen-me/v3/css/loopslider.css",
+		"/C/Users/hikaru/AppData/Local/Temp/scp21396/var/www/html/yougen-me/v3/js/components/navbar.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp21655/var/www/html/yougen-me/v3/css/style.css",
+		"/C/Users/hikaru/AppData/Local/Temp/scp46219/var/www/html/yougen-me/v3/js/components/tab.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp20613/var/www/html/yougen-me/v3/js/navbar.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp28955/var/www/html/yougen-me/v3/js/firebase-script.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp13962/var/www/html/yougen-me/v3/js/components/modal.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp27082/var/www/html/yougen-me/v3/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp55319/var/www/html/yougen-me/v3/css/style.css",
+		"/C/Users/hikaru/AppData/Local/Temp/scp00434/var/www/html/yougen-me/v3/js/components/navbar.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp49634/var/www/html/yougen-me/v3/js/navbar.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp29738/var/www/html/yougen-me/v3/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp29779/var/www/html/yougen-me/v3/css/style.css",
+		"/C/Users/hikaru/AppData/Local/Temp/scp44389/var/www/html/yougen-me/v3/js/navbar.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp56700/var/www/html/yougen-me/v1/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp56518/var/www/html/yougen-me/v2/app.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp56662/var/www/html/yougen-me/v2/public/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp45028/var/www/html/yougen-me/v3/js/jquary.min.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp32761/var/www/html/yougen-me/v3/css/SmartFont.otf",
+		"/C/Users/hikaru/AppData/Local/Temp/scp31449/var/www/html/yougen-me/v3/logo.jpg",
+		"/C/Users/hikaru/AppData/Local/Temp/scp28806/var/www/html/yougen-me/v3/js/firebase-script.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp27040/var/www/html/yougen-me/v3/js/firebase-init.js",
+		"/C/Users/hikaru/AppData/Local/Temp/scp13351/var/www/html/ai_karuhi-work/TwitterToFirebase.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp28870/var/www/html/yougen-me/v3/KotoriRose-Regular.otf",
+		"/C/Users/hikaru/AppData/Local/Temp/scp39676/var/www/html/ai_karuhi-work/index.html",
+		"/C/Users/hikaru/AppData/Local/Temp/scp07516/var/www/html/ai_karuhi-work/index.html",
+		"/C/Users/hikaru/Documents/GitHub/LieMech/main/sys/style.css",
+		"/C/Users/hikaru/Documents/GitHub/LieMech/sys/main.js",
+		"/C/Users/hikaru/Documents/GitHub/LieMech/sys/style.css",
+		"/C/Users/hikaru/Documents/GitHub/LieMech/index.html",
+		"/C/dev/SublimeMerge/LieMech/studio/sys/main.js",
+		"/C/dev/SublimeMerge/LieMech/studio/sys/style.css",
+		"/C/dev/SublimeMerge/LieMech/studio/index.html",
+		"/C/dev/SublimeMerge/LieMech/index.html",
+		"/C/dev/SublimeMerge/LieMech/sys/style.css",
+		"/C/dev/SublimeMerge/LieMech/sys/main.js",
+		"/C/dev/LieMech/AccountService/main.js",
+		"/C/dev/LieMech/index.html",
+		"/C/dev/LieMech/Accounts.html",
+		"/C/dev/LieMech/AccountService/register.php",
+		"/C/dev/initializr-verekia-4.0/AccountService/register.php",
+		"/C/dev/LieMech/lib/Swiper-Settings.js",
+		"/C/dev/LieMech/js/loginForm.js",
+		"/C/dev/LieMech/css/loginStyle.css",
+		"/C/dev/initializr-verekia-4.0/index.html",
+		"/C/dev/LieMech/lib/Swiper.min.js",
+		"/C/dev/LieMech/css/Swiper.min.css",
+		"/C/dev/LieMech/css/all.min.css",
+		"/C/dev/initializr-verekia-4.0/js/main.js",
+		"/C/dev/initializr-verekia-4.0/404.html",
+		"/C/dev/initializr-verekia-4.0/browserconfig.xml",
+		"/C/dev/LieMech/weltmeister.html",
+		"/C/dev/LieMech/lib/game/main.js",
+		"/C/dev/LieMech/system/style.css",
+		"/C/dev/MCBE_Dining/palette.scss",
+		"/C/dev/LieMech/system/game.js",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/zzz A File Icon zzz/patches/specific/Boxy Theme/multi/Boxy Solarized Dark.sublime-theme",
+		"/C/Users/karuhi/Documents/realsamekunsukui/index.html",
+		"/C/dev/LieMech/LieMech.sublime-workspace",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Installed Packages/codic.sublime-package",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/codic/codic.sublime-settings",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/User/codic.sublime-settings",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/karuhi/AppData/Local/Temp/15.html",
+		"/C/dev/LieMech/src/entityStar.js",
+		"/C/dev/LieMech/src/states/starState.js",
+		"/C/dev/JSGameEngine-aw/aw-master/index.html",
+		"/C/dev/JSGameEngine-aw/aw-master/src/main.js",
+		"/C/dev/JSGameEngine-aw/aw-master/src/aw.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pos",
+			"'QRcode'",
+			"QRcode",
+			"slider",
+			"#swiper",
+			"id=\"swipe",
+			"☽",
+			" style=\"background-im",
+			"ゆえる【歌ってみた】",
+			"img/",
+			"AnimationName",
+			"navbarMenuHeroB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/HelloWorld.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1287,
+								1287
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 382.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.4285714286
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "EasyShare.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 137.6,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
