@@ -7,7 +7,7 @@
                     <div class="container">
                         <div class="navbar-brand">
                             <a class="navbar-item">
-                                <img src="../assets/logo.png" alt="Logo">EasyShareApp
+                                <img src="../assets/logo.png" alt="Logo" style="padding-right: 10px;">EasyShareApp
                             </a>
                             <span class="navbar-burger burger" v-bind:class="{ 'is-active': menuActive }" v-on:click="menuToggle()" data-target="navbarMenuHeroC">
                                 <span></span>
@@ -24,7 +24,7 @@
                                     共有リスト(Futured)
                                 </a>
                                 <span class="navbar-item">
-                                    <a class="button is-primary is-inverted">
+                                    <a class="button is-primary">
                                         <span>Chromeストアでダウンロード</span>
                                     </a>
                                 </span>
@@ -48,11 +48,11 @@
                             <p>EasyShareIDを入力</p>
                         </div>
                         <div class="message-body">
-                            <p>PC版Chrome拡張機能EasyShareに表示されたEasyShareIDを入力してください。</p><br>
+                            <p>PC版Chrome拡張機能EasyShareに表示されたEasyShareIDを入力してください。</p><span id="errorarea">
+                            </span><br>
                             <input id="idf" class="input" type="text" style="width: 40px;" maxlength='1' @change="checkid">
                             <input id="ids" class="input" type="text" style="width: 40px;" maxlength='1' @change="checkid">
                             <input id="idt" class="input" type="text" style="width: 40px;" maxlength='1' @change="checkid">
-                            <br><br><span class="button is-primary">決定</span>
                         </div>
                     </article>
                 </div>
@@ -68,9 +68,18 @@
                 </a>
             </div>
         </footer>
+        <div class="modal" id="modal">
+            <div class="modal-background" v-on:click="modalclose();"></div>
+            <div class="modal-card">
+              <section class="modal-card-body" id="modal-content">
+              </section>
+            </div>
+            <button class="modal-close is-large" aria-label="close" v-on:click="modalclose();"></button>
+        </div>
     </div>
 </template>
 <script>
+import firebase from 'firebase'
 export default {
     name: 'Main',
     data() {
@@ -82,13 +91,34 @@ export default {
         menuToggle() {
             this.menuActive = !this.menuActive;
         },
-        checkid(){
-          var firstID = document.getElementById("idf").value;
-          var secondID = document.getElementById("ids").value;
-          var thirdID = document.getElementById("idt").value;
-          if (firstID != null && secondID != null && thirdID != null) {
-
-          }
+        checkid() {
+            var firstID = document.getElementById("idf").value;
+            var secondID = document.getElementById("ids").value;
+            var thirdID = document.getElementById("idt").value;
+            var fid = firstID.toUpperCase();
+            var sid = secondID.toUpperCase();
+            var tid = thirdID.toUpperCase();
+            if (firstID != "" && secondID != "" && thirdID != "") {
+                this.getData(fid + sid + tid);
+            }
+        },
+        getData(id) {
+            var database = firebase.database();
+            firebase.database().ref('esid/' + id)
+                .once('value').then(function(snapshot) {
+                    var id = snapshot.child("id").val();
+                    var title = snapshot.child("title").val();
+                    var url = snapshot.child("url").val();
+                    if (id != null && title != null && url != null) {
+                        document.getElementById("modal").className = "modal is-active";
+                        document.getElementById("modal-content").innerHTML = '<p class="title">' + title + '</p>にアクセスしますか？<a href="' + url + '" class="button is-primary">アクセスする！</a>';
+                    } else {
+                        document.getElementById("errorarea").innerHTML = '<div class="notification is-danger">EasyShareIDが間違っているようです。</div>';
+                    }
+                })
+        },
+        modalclose() {
+            document.getElementById("modal").className = "modal";
         }
     }
 }
