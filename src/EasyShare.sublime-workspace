@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"modal",
+				"modal-card"
+			],
+			[
+				"v-on",
+				"v-on:click"
+			],
+			[
+				"is",
+				"is-primary"
+			],
+			[
+				"moda",
+				"modal-content"
+			],
+			[
+				"is-",
+				"is-active"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"EasyShare",
+				"EasyShareIDを入力"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"th",
+				"thirdID"
+			],
+			[
+				"imp",
+				"import〔keyword〕"
+			],
+			[
+				"thi",
+				"thirdID〔variable〕"
+			],
+			[
+				"se",
+				"secondID"
+			],
+			[
+				"fi",
+				"firstID"
+			],
+			[
+				"ch",
+				"checkid"
+			],
+			[
+				"lo",
+				"logo.png"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
 				"loca",
 				"localStorage〔variable〕"
 			],
@@ -26,10 +94,6 @@
 			[
 				"padd",
 				"padding-right\tproperty"
-			],
-			[
-				"is",
-				"is-small"
 			],
 			[
 				"app",
@@ -92,16 +156,8 @@
 				"tabName〔argument〕"
 			],
 			[
-				"get",
-				"getElementsByClassName"
-			],
-			[
 				"YU",
 				"YougenReadText"
-			],
-			[
-				"is-",
-				"is-info"
 			],
 			[
 				"nav",
@@ -235,24 +291,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "App.vue",
-			"settings":
-			{
-				"buffer_size": 567,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/HelloWorld.vue",
-			"settings":
-			{
-				"buffer_size": 1287,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -342,15 +380,26 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/assets",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components"
+	],
 	"file_history":
 	[
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/manifest.json",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/App.vue",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/main.js",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components/Main.vue",
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/index.html",
+		"/C/dev/chrome-extension/popup.html",
 		"/C/Users/hikaru/Documents/EasyShare/src/components/HelloWorld.vue",
 		"/C/Users/hikaru/Documents/EasyShare/src/App.vue",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/vue.config.js",
 		"/C/Users/hikaru/Documents/EasyShare/src/main.js",
 		"/C/dev/chrome-extension/manifest.json",
 		"/C/dev/chrome-extension/firebase-init.js",
-		"/C/dev/chrome-extension/popup.html",
 		"/C/dev/chrome-extension/main.js",
 		"/C/dev/chrome-extension/firebase.js",
 		"/C/dev/chrome-extension/qrcode.js",
@@ -444,7 +493,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.8
 	},
 	"find_in_files":
 	{
@@ -458,6 +507,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"placeholder",
 			"pos",
 			"'QRcode'",
 			"QRcode",
@@ -487,71 +537,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "App.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 567,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								312,
-								312
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/HelloWorld.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1287,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1287,
-								1287
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 382.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
