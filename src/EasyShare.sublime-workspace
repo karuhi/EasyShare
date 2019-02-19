@@ -388,10 +388,10 @@
 	],
 	"file_history":
 	[
+		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components/Main.vue",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/manifest.json",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/App.vue",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/main.js",
-		"/C/Users/hikaru/Documents/GitHub/EasyShare/src/components/Main.vue",
 		"/C/Users/hikaru/Documents/GitHub/EasyShare/public/index.html",
 		"/C/dev/chrome-extension/popup.html",
 		"/C/Users/hikaru/Documents/EasyShare/src/components/HelloWorld.vue",
@@ -493,7 +493,7 @@
 	],
 	"find":
 	{
-		"height": 40.8
+		"height": 27.0
 	},
 	"find_in_files":
 	{

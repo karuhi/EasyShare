@@ -23,7 +23,7 @@
                                 <a class="navbar-item">
                                     共有リスト(Futured)
                                 </a>
-                                <span class="navbar-item">
+                                <span class="navbar-item" href="https://chrome.google.com/webstore/detail/easyshare-urlを簡単共有/lohgijhanpmaoifleakhianjolclfgmg/">
                                     <a class="button is-primary">
                                         <span>Chromeストアでダウンロード</span>
                                     </a>
