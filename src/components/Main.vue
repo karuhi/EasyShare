@@ -1,13 +1,13 @@
 <template>
     <div class="hello">
-        <section class="hero is-light is-fullheight">
+        <section class="hero is-fullheight">
             <!-- Hero head: will stick at the top -->
             <div class="hero-head">
                 <header class="navbar">
                     <div class="container">
                         <div class="navbar-brand">
                             <a class="navbar-item">
-                                <img src="../assets/logo.png" alt="Logo">EasyShare
+                                <img src="../assets/logo.png" alt="Logo">EasyShareApp
                             </a>
                             <span class="navbar-burger burger" v-bind:class="{ 'is-active': menuActive }" v-on:click="menuToggle()" data-target="navbarMenuHeroC">
                                 <span></span>
@@ -21,7 +21,7 @@
                                     Home
                                 </a>
                                 <a class="navbar-item">
-                                    共有リスト(futured)
+                                    共有リスト(Futured)
                                 </a>
                                 <span class="navbar-item">
                                     <a class="button is-primary is-inverted">
@@ -57,9 +57,6 @@
                     </article>
                 </div>
             </div>
-            <!-- Hero footer: will stick at the bottom -->
-            <div class="hero-foot">
-            </div>
         </section>
         <footer class="footer">
             <div class="content has-text-centered">
@@ -89,28 +86,13 @@ export default {
           var firstID = document.getElementById("idf").value;
           var secondID = document.getElementById("ids").value;
           var thirdID = document.getElementById("idt").value;
-          alert(firstID + secondID + thirdID);
+          if (firstID != null && secondID != null && thirdID != null) {
+
+          }
         }
     }
 }
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
-    margin: 40px 0 0;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    display: inline-block;
-    margin: 0 10px;
-}
-
-a {
-    color: #42b983;
-}
 </style>
